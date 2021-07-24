@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DweejaReddy
 - 👀 I’m interested in HTML, CSS,Python
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python,JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email:dweeja54@gmail.com
 
