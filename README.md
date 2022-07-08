@@ -24,8 +24,7 @@ I’m a Full-Stack Developer mostly proficient in Frontend and a student with bi
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 💥 I’m currently working on an internship opportunity at 99minds where I am given some tasks in developing website for B2B and a B2C companies that allows theusers to order gift cards for them or the organization that placed the
-order
+- 💥 I’m currently working on an internship opportunity at 99minds where I am given some tasks in developing website for B2B and a B2C companies that allows theusers to order gift cards for the organizations
 
 - 🌱 I’m currently learning Data Structures and Algorithms & Android Development  
   
