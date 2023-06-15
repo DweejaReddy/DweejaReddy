@@ -43,7 +43,7 @@ I’m a Full-Stack Developer mostly proficient in Frontend and a student with bi
 
 <div align="center">
 <!-- <img src="giphy.gif?raw=true" align="center" style="width: 200px" /> -->
-  ![Demo File](https://github.com/username/repo-name/blob/master/demo/demo.gif)
+  ![Demo File](https://github.com/DweejaReddy/DweejaReddy/blob/main/giphy.gif)
 </div>  
 
 
