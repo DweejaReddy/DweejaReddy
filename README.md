@@ -42,8 +42,7 @@ I’m a Full-Stack Developer mostly proficient in Frontend and a student with bi
 </td><td valign="top" width="50%">
 
 <div align="center">
-<!-- <img src="giphy.gif?raw=true" align="center" style="width: 200px" /> -->
-  ![Demo File](https://github.com/DweejaReddy/DweejaReddy/blob/main/giphy.gif)
+<img src="giphy.gif" align="center" style="width: 200px" />
 </div>  
 
 
