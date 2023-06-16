@@ -39,17 +39,19 @@ I’m a Full-Stack Developer mostly proficient in Frontend and a student with bi
 
 
 
-</td><td valign="top" width="50%">
+</td>
+  <td valign="top" width="50%">
 
 <div align="center">
-<img src="image.webp" align="center" style="width: 200px" />
+<img src="https://github.com/DweejaReddy/DweejaReddy/blob/main/image.png" width="50" />
 </div>  
+  
 
+ 
+</td>
+  </tr></table>  
 
-</td></tr></table>  
-
-<br/>  
-
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
