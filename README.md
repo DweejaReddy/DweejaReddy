@@ -15,7 +15,6 @@
 </a>  
   
 
- ![image](https://github.com/DweejaReddy/DweejaReddy/assets/74244501/21d57bb7-25b3-4174-a033-b7f9edb6252e)
 
 ### Glad to see you here!  
 I’m a Full-Stack Developer mostly proficient in Frontend and a student with bigger dreams.  
@@ -42,10 +41,9 @@ I’m a Full-Stack Developer mostly proficient in Frontend and a student with bi
 </td>
   <td valign="top" width="50%">
 
-<div align="center">
- 
 
-</div>  
+ ![image](https://github.com/DweejaReddy/DweejaReddy/assets/74244501/21d57bb7-25b3-4174-a033-b7f9edb6252e)
+
   
  
 </td>
